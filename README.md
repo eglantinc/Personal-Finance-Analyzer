@@ -1,4 +1,4 @@
-# Personal-Finance-Analyzer-
+# Personal Finance Analyzer
 
 ## Motivation
 <p align="justify">
