@@ -18,8 +18,8 @@ This simple project serves as a way to connect meaning to my goal of financial h
 By building something tangible, a data-driven approach to understanding and improving my spending habits, 
 I hope to transform budgeting into a purposeful, engaging journey rather than just another task.
 </p>
----
 
+---
 ## Features
 
 ### 1. Data Cleaning and Preparation
