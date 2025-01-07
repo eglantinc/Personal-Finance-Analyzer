@@ -2,6 +2,8 @@
 This project is designed to help me dive deep into my personal financial data. 
 It’s all about taking a closer look at my own spending habits and patterns, extracting meaningful insights, 
 and figuring out how to manage my money better. 
+
+---
 ## Motivation
 <p align="justify">
 As 2024 ends and 2025 begins, I find myself in my early 20s, nearing my mid-20s, and approaching the completion of my bachelor’s degree. 
@@ -16,7 +18,6 @@ This simple project serves as a way to connect meaning to my goal of financial h
 By building something tangible, a data-driven approach to understanding and improving my spending habits, 
 I hope to transform budgeting into a purposeful, engaging journey rather than just another task.
 </p>
-
 ---
 
 ## Features
@@ -26,6 +27,7 @@ I hope to transform budgeting into a purposeful, engaging journey rather than ju
 - Handles missing values and removes unnecessary rows/columns.
 - Filters out transactions like paychecks to focus solely on expenses.
 
+---
 ### 2. Spending Categorization
 - Organizes spending into meaningful categories, such as:  
   - **Essentials**: University payments, driving lessons, phone bill, external courses, etc. 
@@ -38,10 +40,12 @@ I hope to transform budgeting into a purposeful, engaging journey rather than ju
   - **Groceries**: Purchases of food and household supplies.  
   - **Savings**: Money set aside for savings.  
 
+---
 ### 3. Machine Learning Analysis
 - Uses **Linear Regression** to analyze trends and predict future spending patterns.
 - Incorporates evaluation metrics like Mean Absolute Error (MAE) and R-squared to measure model performance.
 
+---
 ### 4. Visualization
 - Provides intuitive plots to visualize spending trends, category distributions, and predictions.
 
